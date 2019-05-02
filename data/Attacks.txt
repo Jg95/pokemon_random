@@ -1,0 +1,9 @@
+Name	Type	Power
+DrillPeck	0	80
+JumpKick	1	70
+RockSlide	2	75
+MegaPunch	1	80
+AerialAce	0	70
+TriAttack	0	80
+Pursuit	1	80
+Rollout	2	70

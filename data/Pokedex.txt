@@ -1,0 +1,4 @@
+Name	Type	HP	Attk	Deff	Path
+Dodrio	0	60	110	100	../img/Texturas/dodrio_back.png
+Golem	2	80	50	130	../img/Texturas/golem_front.png
+Hitmonlee 	1	50	120	100	../img/Texturas/hitmonlee_front.png
